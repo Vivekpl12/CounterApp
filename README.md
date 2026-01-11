@@ -1,16 +1,39 @@
-# phase_3
+# Flutter Basics App
 
-A new Flutter project.
+This repository contains my Flutter learning projects as I progress step by step
+from UI basics to state and logic.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Current Features
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Counter App (Phase 3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Built using `StatefulWidget`
+- Uses `setState()` to update UI
+- Increment, Decrement, and Reset functionality
+- Demonstrates how state lives inside the State class
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 Concepts Practiced
+
+### Flutter
+
+- StatelessWidget vs StatefulWidget
+- Widget tree understanding
+- Layouts using Column, Row, Center
+- Spacing with SizedBox
+- Rebuilding UI using `setState()`
+
+### Dart
+
+- Variables and state
+- Basic control flow
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
